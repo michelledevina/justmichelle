@@ -1,3 +1,4 @@
 alas = 10 
 tinggi = 5
-alas * tinggi 
+luas = alas * tinggi * 0.5
+print(luas)
